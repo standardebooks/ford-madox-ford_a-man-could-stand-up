@@ -41,3 +41,11 @@ p span.i1{
 	padding-left: -2em;
 	text-indent: 1em;
 }
+
+.long{
+	letter-spacing: .5em;
+}
+
+.long + .long{
+	text-transform: uppercase;
+}

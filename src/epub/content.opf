@@ -48,14 +48,13 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">57</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A veteran returning from the front celebrates Armistice Day with the people he loves, while trying to deal with the psychological impacts of war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20140811</dc:source>
 		<dc:source>https://books.google.com/books?id=gxFLAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Man_Could_Stand_Up_%E2%80%94</meta>

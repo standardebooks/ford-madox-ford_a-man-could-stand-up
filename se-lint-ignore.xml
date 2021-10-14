@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-1.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is as-is in print.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2.xhtml">
+		<ignore>
+			<code>t-026</code>
+			<reason>alt text matches the text in the image.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

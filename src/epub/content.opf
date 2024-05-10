@@ -58,7 +58,7 @@
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20140811</dc:source>
 		<dc:source>https://books.google.com/books?id=Z-cEAQAAIAAJ</dc:source>
 		<meta property="se:word-count">71124</meta>
-		<meta property="se:reading-ease.flesch">76.01</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Man_Could_Stand_Up_%E2%80%94</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_a-man-could-stand-up</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>

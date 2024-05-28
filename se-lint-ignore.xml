@@ -11,10 +11,6 @@
 			<code>t-026</code>
 			<reason>alt text matches the text in the image.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
-			<reason>Matched text is as-is in print.</reason>
-		</ignore>
 	</file>
 	<file path="chapter-3-2.xhtml">
 		<ignore>

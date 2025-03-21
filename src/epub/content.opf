@@ -83,7 +83,7 @@
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">http://www.pgdpcanada.net</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">http://www.pgdpcanada.net</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>

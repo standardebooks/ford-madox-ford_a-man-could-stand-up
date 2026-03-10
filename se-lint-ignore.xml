@@ -2,32 +2,45 @@
 <se-lint-ignore>
 	<file path="chapter-1-1.xhtml">
 		<ignore code="y-016">
+			<line>40</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>19</line>
+			<line>40</line>
+			<line>44</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-1.xhtml">
 		<ignore code="y-034">
+			<line>25</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-2.xhtml">
 		<ignore code="t-026">
+			<line>13</line>
+			<line>19</line>
+			<line>33</line>
 			<reason>alt text matches the text in the image.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>104</line>
+			<line>125</line>
+			<line>143</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-1.xhtml">
 		<ignore code="y-034">
+			<line>62</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-2.xhtml">
 		<ignore code="y-031">
+			<line>95</line>
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>

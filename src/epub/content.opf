@@ -69,9 +69,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wat</meta>
-		<dc:contributor id="artist">Gilbert Gaul</dc:contributor>
-		<meta property="file-as" refines="#artist">Gaul, Gilbert</meta>
-		<meta property="se:name.person.full-name" refines="#artist">William Gilbert Gaul</meta>
+		<dc:contributor id="artist">William Gilbert Gaul</dc:contributor>
+		<meta property="file-as" refines="#artist">Gaul, William Gilbert</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gilbert_Gaul_(artist)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n93110916</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>

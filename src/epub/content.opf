@@ -86,7 +86,7 @@
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<link href="http://www.pgdpcanada.net/" refines="#transcriber-3" rel="schema:url"/>
+		<link href="https://www.pgdpcanada.net/" refines="#transcriber-3" rel="schema:url"/>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<link href="https://alexcabal.com/" refines="#producer-1" rel="schema:url"/>
